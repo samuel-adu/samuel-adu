@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel
-- 👀 I’m interested in Frontend Web Developemt
+- 👀 I’m interested in Frontend Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 
