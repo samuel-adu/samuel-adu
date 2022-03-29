@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that would help develop as a front end developer.
 - 📫 How to reach me: 
           Email:- theadusamuel@gmail.com 
-          Twiiter:- @theadusamuel
+          
 
 <!---
 theadusamuel/theadusamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
