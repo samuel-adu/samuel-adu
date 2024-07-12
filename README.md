@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project that would help develop as a front end developer
 - 📫 How to reach me: 
-          Email:- theadusamuel@gmail.com 
+          Email:- samueladu.dev@gmail.com 
           
 
 <!---
