@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samuel
 - 👀 I’m interested in Frontend Development roles with a focus on working with React
-- 🌱 I’m currently learning Advance React and TypeScript
+- 🌱 I’m currently learning Advance React and new technologies in the React ecosystem.
 - 💞️ I’m looking to collaborate on any project that would help develop as a front end developer
 - 📫 How to reach me: 
           Email:- samueladu.dev@gmail.com 
