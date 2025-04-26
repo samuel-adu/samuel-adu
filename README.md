@@ -1,7 +1,7 @@
 # Hi 👋 my name is Samuel Adu
 
 ## Frontend Developer
-I started learning to code in 2020 when I decided to transition from my Data Analyst career to web developement and since then I have had 2 years of professional experience working at Orda Africa and Alphine Green Technology
+I started learning to code in 2020 when I decided to transition from my data analyst career to web developement and since then I have had 2 years of professional experience working at Orda Africa and Alphine Green Technology before relocating to the United Kingdom in October 2023
 *   🌍  I'm based in Birmingham, United Kingdom
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
 *   🧠  I'm currently learning Advance React Patterns and Testing in React
