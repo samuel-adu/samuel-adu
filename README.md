@@ -6,9 +6,9 @@ Frontend Developer
 
 *   🌍  I'm based in Birmingham, United Kingdom
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
-*   ✉️  You can contact via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
 *   🧠  I'm currently learning Advance React Patterns and Testing in React
 *   🤝  I’m open to Frontend Developer roles that are either remote or based in the UK
+*   ✉️  You can contact via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
 
 ### Tech Stack
 <p align="left">
