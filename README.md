@@ -1,8 +1,6 @@
-Hi 👋 my name is Samuel Adu
-==================================================================================================================================
+# Hi 👋 my name is Samuel Adu
 
-Frontend Developer
------------------
+## Frontend Developer
 
 *   🌍  I'm based in Birmingham, United Kingdom
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
