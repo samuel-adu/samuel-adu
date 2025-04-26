@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Adu
+Hi 👋 My name is Samuel Adu
 ==================================================================================================================================
 
 Frontend Developer
-------------------
+-----------------
 
 *   🌍  I'm based in Birmingham, United Kingdom
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
