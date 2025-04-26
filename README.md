@@ -1,14 +1,14 @@
 # Hi 👋 my name is Samuel Adu
 
 ## Frontend Developer
-
+I started learning to code in 2020 when I decided to transition from my Data Analyst career to web developement and since then I have had 2 years of professional experience working at Orda Africa and Alphine Green Technology
 *   🌍  I'm based in Birmingham, United Kingdom
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
 *   🧠  I'm currently learning Advance React Patterns and Testing in React
 *   🤝  I’m open to Frontend Developer roles that are either remote or based in the UK
 *   ✉️  You can contact via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
 
-### Stack
+### My Stack
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
