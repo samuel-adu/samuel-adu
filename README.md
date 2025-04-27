@@ -7,7 +7,7 @@ I began learning to code in 2020 when I made the decision to transition from a c
 *   🖥️  Checkout my portfolio at [www.samueladu.dev](http://www.samueladu.dev)
 *   🧠  I'm currently learning Advance React Patterns and Testing in React
 *   🤝  I’m open to Frontend Developer roles that are either remote or based in the UK
-*   ✉️  You can contact via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
+*   ✉️  You can contact me via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
 
 ### My Stack
 <p align="left">
