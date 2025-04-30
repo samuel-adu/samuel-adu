@@ -9,6 +9,8 @@ I began learning to code in 2020 when I made the decision to transition from a c
 *   🤝  I’m open to Frontend Developer roles that are either remote or based in the UK
 *   ✉️  You can contact me via email at [samueladu.dev@gmail.com](mailto:samueladu.dev@gmail.com)
 
+---
+
 ### 🚀 My Stack
 
 <div align="left">
